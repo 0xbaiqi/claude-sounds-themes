@@ -4,12 +4,13 @@
 
 ## 文件结构
 
-每个主题独立文件夹：
+所有主题位于 `themes/` 目录下，每个主题独立文件夹：
 
 ```
-your-theme/
-├── README.md           # 必须
-└── your-theme.cstheme  # 必须
+themes/
+└── your-theme/
+    ├── README.md           # 必须
+    └── your-theme.cstheme  # 必须
 ```
 
 ## README.md 必填内容
@@ -73,8 +74,8 @@ bash ~/.claude/plugins/claude-sounds/scripts/manage.sh theme pack ./mytheme
 ## 提交流程
 
 1. Fork 本仓库
-2. 新建文件夹，放入 `README.md` 和 `.cstheme` 文件
-3. 更新根目录 `index.json`，加入你的主题条目
+2. 在 `themes/` 下新建文件夹，放入 `README.md` 和 `.cstheme` 文件
+3. 更新根目录 `index.json`，加入你的主题条目（`file` 路径格式：`themes/主题名/主题名.cstheme`）
 4. 提 PR，说明主题风格和音频来源
 
 ## 版权要求
