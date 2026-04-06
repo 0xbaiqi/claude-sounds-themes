@@ -1,5 +1,16 @@
 {
   "version": "1",
   "store_url": "https://raw.githubusercontent.com/0xbaiqi/claude-sounds-themes/main",
-  "themes": []
+  "themes": [
+    {
+      "name": "default",
+      "display_name": "Default",
+      "version": "1.0.0",
+      "description": "简洁干净的女声提示音，适合日常使用",
+      "author": "0xbaiqi",
+      "file": "themes/default/default.cstheme",
+      "size": 34004,
+      "preview_sound": "notification"
+    }
+  ]
 }
