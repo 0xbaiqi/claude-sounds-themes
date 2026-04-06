@@ -11,6 +11,18 @@
       "file": "themes/default/default.cstheme",
       "size": 34004,
       "preview_sound": "notification"
+    },
+    {
+      "name": "mario",
+      "display_name": "Super Mario",
+      "version": "1.0.0",
+      "description": "超级玛丽捡起金币的清脆音效，每次提示都像捡到宝",
+      "author": "功夫熊猫",
+      "license": "CC0",
+      "source": "https://www.ear0.com/sound/10173",
+      "file": "themes/mario/mario.cstheme",
+      "size": 53024,
+      "preview_sound": "notification"
     }
   ]
 }
