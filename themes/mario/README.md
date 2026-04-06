@@ -13,5 +13,5 @@
 
 ## 作者 / 协议
 
-功夫熊猫 · CC0
-来源：耳聆网 https://www.ear0.com/sound/10173
+0xbaiqi · CC0
+音频来源：功夫熊猫 · 耳聆网 https://www.ear0.com/sound/10173
