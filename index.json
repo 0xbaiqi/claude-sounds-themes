@@ -9,7 +9,7 @@
       "description": "简洁干净的女声提示音，适合日常使用",
       "author": "0xbaiqi",
       "file": "themes/default/default.cstheme",
-      "size": 34004,
+      "size": 43916,
       "preview_sound": "notification"
     },
     {
@@ -21,7 +21,7 @@
       "license": "CC0",
       "audio_source": "功夫熊猫 · 耳聆网 https://www.ear0.com/sound/10173",
       "file": "themes/mario/mario.cstheme",
-      "size": 53024,
+      "size": 66248,
       "preview_sound": "notification"
     },
     {
@@ -33,7 +33,7 @@
       "license": "CC0",
       "audio_source": "apdj361 · 耳聆网 https://www.ear0.com/sound/35378",
       "file": "themes/chime/chime.cstheme",
-      "size": 222105,
+      "size": 277532,
       "preview_sound": "notification"
     }
   ]

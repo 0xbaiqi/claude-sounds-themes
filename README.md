@@ -9,6 +9,7 @@ Community theme store for the [Claude Sounds Plugin](https://github.com/0xbaiqi/
 |-------|-------------|--------|
 | [Default](./themes/default/) | Clean female voice prompts for daily use · 简洁干净的女声提示音 | 0xbaiqi |
 | [Super Mario](./themes/mario/) | Mario coin pickup sound · 超级玛丽捡起金币音效 (CC0) | 0xbaiqi |
+| [Chime](./themes/chime/) | Musical chime notification · 音乐铃声提示音 (CC0) | 0xbaiqi |
 
 All themes are under [`themes/`](./themes/). Each folder contains a `README.md` with description and preview links.  
 所有主题位于 [`themes/`](./themes/) 目录，每个主题的 `README.md` 包含说明和试听链接。
