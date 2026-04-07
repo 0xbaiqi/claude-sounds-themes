@@ -13,4 +13,4 @@
 
 ## 作者 / 协议
 
-0xbaiqi · MIT
+0xbaiqi · cc0

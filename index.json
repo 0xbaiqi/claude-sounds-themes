@@ -23,6 +23,18 @@
       "file": "themes/mario/mario.cstheme",
       "size": 53024,
       "preview_sound": "notification"
+    },
+    {
+      "name": "chime",
+      "display_name": "Chime",
+      "version": "1.0.0",
+      "description": "音乐铃声提示音，清脆悦耳的叮咚声",
+      "author": "0xbaiqi",
+      "license": "CC0",
+      "audio_source": "apdj361 · 耳聆网 https://www.ear0.com/sound/35378",
+      "file": "themes/chime/chime.cstheme",
+      "size": 222105,
+      "preview_sound": "notification"
     }
   ]
 }
